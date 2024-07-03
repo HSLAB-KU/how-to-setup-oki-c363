@@ -1,4 +1,4 @@
-# how-to-setup-oki-c363
+# how-to-setup-oki-mc363
 ## step1 wifi
 connect your computer to tplink wifi.
 ## step2 driver
